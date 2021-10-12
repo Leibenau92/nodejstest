@@ -3,6 +3,7 @@ module.exports = {
     browser: true,
     commonjs: true,
     es2021: true,
+    main: 'index.js',
   },
   extends: [
     'airbnb-base',
